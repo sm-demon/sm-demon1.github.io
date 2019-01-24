@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "百草味零食大礼包",
+        "description": "除了贵还是贵",
+        "price": 59.99
+    },
+    {
+        "id": 2,
+        "title": "卫龙全家桶",
+        "description": "辣条界的扛把子",
+        "price": 109.99
+    },
+    {
+        "id": 3,
+        "title": "可口可乐",
+        "description": "肥宅快乐水",
+        "price": 2.99
+    },
+    {
+        "id": 4,
+        "title": "老北京方便面",
+        "description": "家的味道",
+        "price": 0.99
+    },
+    {
+        "id": 5,
+        "title": "棉拖",
+        "description": "你买不到吃亏，买不到上当",
+        "price": 19.99
+    }
+]
